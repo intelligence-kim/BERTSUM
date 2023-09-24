@@ -30,6 +30,7 @@
 ## 프로젝트 결과
 ### model size
  - [BERT](https://arxiv.org/pdf/1810.04805.pdf)<br>
+ - [BERTSUM](https://arxiv.org/abs/1908.08345)<br>
  
 |model|size|
 |:------:|:-----:|
