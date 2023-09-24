@@ -31,13 +31,13 @@
 ### model size
 |model|size|
 |:------:|:-----:|
-|vocab|32000|
-|sequence|512|
-|segment type|2|
-|<span style="color:red">**layer**</sapn>|**6**|
+|**layer**|**6**|
 |**hidden layer**|**512**|
 |**feed forward**|**1024**|
 |**attention layer**|**6**|
+|vocab|32000|
+|sequence|512|
+|segment type|2|
 |multihead attention|6|
 |dropout|6|
 |layer norm|1e-12|
