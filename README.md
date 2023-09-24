@@ -73,6 +73,7 @@ ex) sentence_1,sentence_2,sentence_3,sentence_4,sentence_5 -> 추출요약 결�
  3. News 요약 본문
 <img width="940" alt="3" src="https://github.com/intelligence-kim/BERTSUM/assets/128572870/e2303789-0914-4781-8bb4-6a10108ac853">
  4. 전체 뉴스 요약
+
 ![4](https://github.com/intelligence-kim/BERTSUM/assets/128572870/8a7a5816-fd31-4f27-bc7b-7cd04b56a4d9)
 
 
