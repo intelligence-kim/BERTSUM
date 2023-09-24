@@ -29,7 +29,7 @@
 
 ## 프로젝트 결과
 ### model size
- - [BERT](https://arxiv.org/pdf/1810.04805.pdf)
+ - [BERT](https://arxiv.org/pdf/1810.04805.pdf)<br>
 |model|size|
 |:------:|:-----:|
 |**layer**|**6**|
