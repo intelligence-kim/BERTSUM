@@ -49,3 +49,31 @@
  - 다양한 모델의 사이즈들을 만들어 직접 비교하였으나 개인pc에서 학습 가능한 가장 최적의 모델을 채택하였다.
 ![그림1](https://github.com/intelligence-kim/BERTSUM/assets/128572870/da83b9bc-d3f8-4d4a-b8e8-2980e0890a4a)
 
+### model 성능
+NSMC : 0.85
+rouge-1 : 0.38
+rouge-2 = 0.34
+rouge-l = 0.36
+
+### EDA
+<img width="416" alt="image" src="https://github.com/intelligence-kim/BERTSUM/assets/128572870/923194b1-75b2-43e0-95bd-bf93baeafd11">
+ - AI Hub에서 제공해준 추출 요약된 라벨링의 출현 빈도 그래프이다.
+ - 그래프를 보면 대체적으로 라벨링된 데이터의 앞 부분이 중요도가 높은 것을 볼 수 있다.
+ex) sentence_1,sentence_2,sentence_3,sentence_4,sentence_5 -> 추출요약 결과 : 1,2,3
+
+### 크롤링
+ 1. 카테고리별 헤드라인 뉴스 DataFrame 변환
+ 2. DataFrame->DB 저장
+
+### Web
+ 1. 첫화면
+<img width="1276" alt="1" src="https://github.com/intelligence-kim/BERTSUM/assets/128572870/25b0b2c5-1383-46df-b6b4-85d71c4d6760">
+ 2. News 시각화 자료
+<img width="1578" alt="2" src="https://github.com/intelligence-kim/BERTSUM/assets/128572870/aac51787-6d18-4112-870f-833ae91a909c">
+ 3. News 요약 본문
+<img width="940" alt="3" src="https://github.com/intelligence-kim/BERTSUM/assets/128572870/e2303789-0914-4781-8bb4-6a10108ac853">
+ 4. 전체 뉴스 요약
+![14 37 180 134_8000_overview politic 1](https://github.com/intelligence-kim/BERTSUM/assets/128572870/d514b2e5-d3d2-4fb0-b2c7-a7c07f23a714)
+
+
+
