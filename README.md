@@ -34,7 +34,7 @@
 |vocab|32000|
 |sequence|512|
 |segment type|2|
-|**layer**|**6**|
+|<span style="color:red">**layer**</sapn>|**6**|
 |**hidden layer**|**512**|
 |**feed forward**|**1024**|
 |**attention layer**|**6**|
