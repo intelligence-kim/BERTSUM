@@ -30,8 +30,14 @@
 ## 프로젝트 결과
 ### model size
 |model|size|
-|------|---|
+|:------:|:-----:|
 |vocab|32000|
 |sequence|512|
 |segment type|2|
-
+|**layer**|**6**|
+|**hidden layer**|**512**|
+|**feed forward**|**1024**|
+|**attention layer**|**6**|
+|multihead attention|6|
+|dropout|6|
+|layer norm|1e-12|
