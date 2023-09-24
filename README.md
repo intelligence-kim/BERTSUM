@@ -41,3 +41,7 @@
 |multihead attention|6|
 |dropout|6|
 |layer norm|1e-12|
+ - BERT base의 파라미터 수는 110M 정도의 수치이지만 개인적으로 만든 모델의 파라미터 수는 약 18M 정도이다.
+ - layer, hidden layer, feed forward, attention layer 가 기존 BERT base보다 작다.
+ - 다양한 모델의 사이즈들을 만들어 직접 비교하였으나 개인 pc 기준 가장 최적의 모델이라고 생각되어지는 사이즈를 채택하였다.
+<img width="953" alt="스크린샷 2023-09-25 오전 1 05 36" src="https://github.com/intelligence-kim/BERTSUM/assets/128572870/b5b5b262-1a60-4373-9730-1fc8bf6822bd">
