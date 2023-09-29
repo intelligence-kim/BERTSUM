@@ -6,8 +6,8 @@
 
 ## 프로젝트 기술 소개
  - Tockenizer : sentencepiece
- - BERT model : BERT를 직접 modeling/pretrain/finetune 진행
- - BERTSUM model : BERT기반 추출 요약 모델인 BERTSUM modeling/finetune 진행 및 rouge 지표 확인
+ - BERT : BERT를 직접 modeling/pretrain/finetune 진행
+ - BERTSUM : BERT기반 추출 요약 모델인 BERTSUM modeling/finetune 진행 및 rouge 지표 확인
  - 크롤링 라이브러리 : BeautifulSoup4, Selenium
  - 시각화 라이브러리 : matplotlib, wordcloud, networkX
  - 웹 : django / bootstrap
