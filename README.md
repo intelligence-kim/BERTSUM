@@ -57,7 +57,7 @@ rouge-l = 0.36
 
 ### EDA
 <img width="416" alt="image" src="https://github.com/intelligence-kim/BERTSUM/assets/128572870/923194b1-75b2-43e0-95bd-bf93baeafd11"><br>
- - AI Hub에서 제공해준 추출 요약된 라벨링의 출현 빈도 그래프이다.
+(AI Hub에서 제공해준 추출 요약된 라벨링의 출현 빈도 그래프이다.)
  - 그래프를 보면 대체적으로 라벨링된 데이터의 앞 부분이 중요도가 높은 것을 볼 수 있다.
 ex) sentence_1,sentence_2,sentence_3,sentence_4,sentence_5 -> 추출요약 결과 : 1,2,3
 
